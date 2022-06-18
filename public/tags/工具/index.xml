@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>工具 on 应许之地</title>
+        <link>https://promiseland.top/tags/%E5%B7%A5%E5%85%B7/</link>
+        <description>GVenusLeo的个人独立博客</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Thu, 02 Jun 2022 20:58:47 +0800</lastBuildDate><atom:link href="https://promiseland.top/tags/%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>一次推广经历、重拾 LaTeX</title>
+        <link>https://promiseland.top/post/220602/</link>
+        <pubDate>Thu, 02 Jun 2022 20:58:47 +0800</pubDate>
+        
+        <guid>https://promiseland.top/post/220602/</guid>
+        <description>&lt;h3 id=&#34;一次推广经历&#34;&gt;一次推广经历&lt;/h3&gt;
+&lt;p&gt;上个月，国产类 Notion 软件 &lt;a class=&#34;link&#34; href=&#34;https://flowus.cn/product&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;FlowUs&lt;/a&gt; 的创始人找到我(或许是因为我是 FlowUs 种子用户中唯一的 P 大在读学生)，问我是否可以帮助在校园推广 FlowUs。我欣然答应。从团队、迭代速度、产品本身等方面来说，FlowUs 确实是目前国内很值得信任的 Notion 替代品，我很乐意帮助让身边更多人知道这样好的产品。&lt;/p&gt;
+&lt;p&gt;然而，在我推广的过程中，我发现：&lt;strong&gt;身边同学基本无人用过 Notion，甚至知道 Markdown 和 LaTeX 的都寥寥无几。&lt;/strong&gt; 我在即刻发帖，进一步发现这种情况并不是个例。&lt;/p&gt;
+&lt;p&gt;回溯原因，我认为归结于个人。我所在的专业(临床医学)内卷严重，身边同学获取软件资源的途径极少，喜欢探索和折腾的更少，更多的同学更愿意接受功能集中、复杂度低、知名度高的工具软件。个人对工具的选择确实存在多样性，但我不认为至今还在用 Word 写笔记会有多高效。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;大多数人更愿意选择更多人选择的，而不是探索更适合自己的。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;重拾-latex&#34;&gt;重拾 LaTeX&lt;/h3&gt;
+&lt;p&gt;这个学期的课堂 Pre 和小论文爆发式增长(主要来自 PBL)，受够了 Office 糟糕的排版体验，我开始探索新的论文报告和 PPT 演示写作方法。Typora 配合自定义主题用来写小论文确实不错，但体验了一些使用 Markdown 制作 PPT 的工具后，依旧不满意。最终，我选择重拾好久不用的 LaTeX。理由如下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;我只需要输出 pdf 格式。&lt;/li&gt;
+&lt;li&gt;写出来就是学术风格。&lt;/li&gt;
+&lt;li&gt;可以使用模板统一排版。&lt;/li&gt;
+&lt;li&gt;喜欢类编程的写作方式。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;以后的论文报告和学术 PPT，我应该会选择尽量使用 LaTeX 制作。&lt;/p&gt;
+&lt;h3 id=&#34;今日分享&#34;&gt;今日分享&lt;/h3&gt;
+&lt;p&gt;HappyXiao 是我写博客的引路人(尽管他自己并不知道)，我从他的 Twitter、博客、Newsletter 收获良多，也是受到他的影响，我开始写独立博客。今天的分享围绕他：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://happyxiao.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Happy Xiao&lt;/a&gt; ：Happy 的博客，聚焦创作、效率、健康、自我意识和如何变得快乐。&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://coke.do/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;可乐周报&lt;/a&gt; ：Happy 的 Newsletter，每周更新，简短实用的效率方法、健康习惯和思维方式。&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://happyxiao.com/%E6%92%AD%E5%AE%A2/happy-podcast/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Happy Podcast&lt;/a&gt; ：Happy 的个人播客，内容与博客和周报相近。&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://zerocoke.ck.page/f93d466e83&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;零度日报&lt;/a&gt; ：Happy 每日发送的邮件，阅读一段英文，获取一个想法。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;END&lt;/strong&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>酒神精神、附带条件的知识</title>
+        <link>https://promiseland.top/post/220516/</link>
+        <pubDate>Mon, 16 May 2022 18:59:22 +0800</pubDate>
+        
+        <guid>https://promiseland.top/post/220516/</guid>
+        <description>&lt;h3 id=&#34;酒神精神&#34;&gt;酒神精神&lt;/h3&gt;
+&lt;p&gt;很喜欢 &lt;a class=&#34;link&#34; href=&#34;https://jike.city/lightory&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Lightory&lt;/a&gt; 在他的小报童专栏 &lt;a class=&#34;link&#34; href=&#34;https://xiaobot.net/p/smalltalk&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;SmallTalk&lt;/a&gt; 上的自我介绍：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我一贯追求的是：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;世界实际上的运转逻辑；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;人所能成为的理想形态；&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;我读尼采，起初也是受到了 Lightory 写的 &lt;a class=&#34;link&#34; href=&#34;https://mp.weixin.qq.com/s/jgMeOT6Xaxxk9KID6TiaEQ&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;《重估一切价值》&lt;/a&gt; 的启发。前段时间读完周国平先生的《尼采：在世纪的转折点上》一书，大呼过瘾。自认为找到了自己人生哲学的一些基础。&lt;/p&gt;
+&lt;p&gt;尼采学说对我最受用的是酒神精神。&lt;/p&gt;
+&lt;p&gt;人生的悲剧性是一切人生哲学都无法回避的。肤浅的乐观主义回避这个问题，虚假的乐观主义掩盖这个问题，叔本华式的悲观主义承认却又屈服于人生的悲剧性。尼采提出，第一要承认人生的悲剧性，第二要战胜人生的悲剧性。而酒神精神要解决的，正是在承认人生的悲剧性的前提下，如何肯定人生的问题。尼采认为，既然宇宙生命本身生生不息，个体生命稍纵即逝，那么，要肯定生命，就必须超越个人的眼界，立足于宇宙生命，肯定生命的全体，包括肯定其中必定包含的个人的痛苦和毁灭。酒神精神的要义就在于肯定人生、祝福人生，连同它的悲剧性。但不能坚强而沉重，或者坚强而阴郁。尼采说，人生的伟大肯定者应该兼有「坚硬的骨头和轻捷的足」，合歌者、武士与自由精神为一体。他应当学会神圣的舞蹈，学会神圣的欢笑。&lt;/p&gt;
+&lt;p&gt;何为神圣的舞蹈？在人类身上，包括在本来有创造力的人身上，背负了太多不相干的评价，因而步履艰难，生命也因此乏味如一堆沙土。可是，跳舞者能够跳舞于一切陈旧的戒律之上，超越于善恶之外，用自由的舞蹈踏碎一切伦理，使迄今为止人类心目中的一切所谓伟大都沉沦在下。所以，舞蹈又象征着精神从一切传统价值的束缚中解放出来，轻松愉快地享受人生、从事创造，而这本身意味着对人生的充分肯定。舞蹈所象征的超越性，尤其是针对人类一切传统价值的。&lt;/p&gt;
+&lt;p&gt;何为神圣的欢笑？欢笑象征一种欢快豪放的人生态度。一个人不仅对欢乐发笑，而且对失败、对痛苦、对悲剧也发笑，才是具备了酒神精神。所谓「人生的顶峰是笑一切悲剧。」&lt;/p&gt;
+&lt;h3 id=&#34;附带条件的知识&#34;&gt;附带条件的知识&lt;/h3&gt;
+&lt;p&gt;贝叶斯思考的统计学问题需要经过复杂的数学推理。大多数研究数学的人面临的是纯统计学的问题：&lt;/p&gt;
+&lt;p&gt;如果你有一个盒子，里面有 25 个白球和 75 个黑球，试问，连续取出的两个球都是黑球的概率是多少？&lt;/p&gt;
+&lt;p&gt;然而，贝叶斯面临的却是一个逆向的谜题 —— 从观察的事实中获取知识的原理。贝叶斯会问：&lt;/p&gt;
+&lt;p&gt;将黑白两色的球混合装进一个箱子中，如果从这个箱子中连续取出的两个球都是黑色的，你能说出箱子中白球和黑球各有多少个吗？要是你连续取出的是两个白球和一个黑球又会怎样呢？你对箱子里不同颜色的球个数的估算又是怎样改变的呢？&lt;/p&gt;
+&lt;p&gt;一位数学教师在开学的第一堂课上向他的学生提出了一个问题，或许这个问题是对贝叶斯定理最具启发性的阐释：&lt;/p&gt;
+&lt;p&gt;假定你去路边的集市遇到一位男士在掷硬币，第一次掷，硬币落地，正面(有人头的一面)朝上；第二次也是如此；接下来又掷了第三次、第四次……连续掷了 12 次，都是正面朝上，那么他下一次掷硬币时正面朝上的概率是多少？&lt;/p&gt;
+&lt;p&gt;班上的大部分学生都接受过标准的统计学与概率论的训练，他们会意地点点头并说出：「概率为 50％。」但就连小孩子都知道真正的答案：硬币被动过手脚。纯统计学推理无法告诉你问题的答案，但常识可以做到。硬币 12 次落地都是正面朝上的事实，告诉你的不只是一个抽象的算式，更多的还有未来硬币落地仍是正面朝上的概率。如果你不能使用先验知识，对于未来，你将不可避免地做出荒谬的判断。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;这是我们凭直觉感知世界的方式 —— 没有绝对的知识，只有附带条件的知识。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;贝叶斯如是说。&lt;/p&gt;
+&lt;h3 id=&#34;今日分享&#34;&gt;今日分享&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://muselink.cc/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;MuseLink&lt;/a&gt; ：极简数字名片，功能与即刻的 Yellow Page 相似。&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://bigjpg.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Bigjpg&lt;/a&gt; ：人工智能图片放大。&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://fav.farm/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;fav.farm&lt;/a&gt; ：使用 emoji 作为网站的 favicon。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;END&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>假期回顾、最少必要知识</title>
+        <link>https://promiseland.top/post/220508/</link>
+        <pubDate>Sun, 08 May 2022 18:13:06 +0800</pubDate>
+        
+        <guid>https://promiseland.top/post/220508/</guid>
+        <description>&lt;h3 id=&#34;假期回顾&#34;&gt;假期回顾&lt;/h3&gt;
+&lt;p&gt;五一假期，加上五四校庆，连放 9 天假。北京正处疫情之下，9 天假期，做了 7 次核酸，出了 0 次校园。如今假期结束，明天开始上网课，来回顾一下过去 9 天做了什么：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;娱乐：&lt;/strong&gt; 看了几部杰森 · 斯坦森主演的电影，中规中矩的动作片。打游戏，最近喜欢单排。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;体育：&lt;/strong&gt; 这学期选修的乒乓球，正手攻球进步挺大(个人觉得)。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;阅读：&lt;/strong&gt; 买了北岛最新的书《必有人重写爱情》，其中不少诗歌散文是以前就读过的。很喜欢北岛的文风，放在床头睡前读一读。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;学习：&lt;/strong&gt; 开始系统学习计算机专业的课程。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这里需要说明，我是一名医学生，准备考本校软件与微电子学院的研究生，所以开始自学相关课程。目前在学 C 语言，我的自学笔记放在语雀，如果你感兴趣或者有需要可以查看：&lt;a class=&#34;link&#34; href=&#34;https://yuque.com/gvenusleo/408&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;408自学笔记&lt;/a&gt;。我最熟练的编程语言是 Python，但之前学得比较杂，准备深入学习机器学习相关知识，你同样可以从语雀查看我的学习摘要：&lt;a class=&#34;link&#34; href=&#34;https://yuque.com/gvenusleo/python&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Python机器学习&lt;/a&gt;。&lt;/p&gt;
+&lt;h3 id=&#34;最少必要知识&#34;&gt;最少必要知识&lt;/h3&gt;
+&lt;p&gt;埃里克·莱斯(Eric Ries)在《精益创业》(The Lean Startup)中提出「最小可行产品」(Minimum Viable Product，MVP)的概念。围绕这个概念，创业者在创业初期不可贪多求全，而应该先做出一个最小的可用产品，拿到市场上去检验，然后根据反馈反复迭代，打磨升级，最终做出比较完善、比较成功的产品。&lt;/p&gt;
+&lt;p&gt;由此引申出「最少必要知识」(Minimal Actionable Knowledge and Experience，MAKE)。MAKE 指的是入门某个新领域切实可行的最小知识集合。说起来好像比较高级，但实际上，MAKE 背后有一个支撑它的朴素原则 — Pareto 原则(亦称 80-20 原则)，即 80% 的工作问题可以通过掌握 20% 的知识来解决。&lt;/p&gt;
+&lt;p&gt;在学习某项技能时，我们要想办法在最短的时间内，摸索清楚这项技能的「最少必要知识」。一方面，它已然可以帮我们解决工作中的大部分问题；另一方面，入门之后，技能的提升通道可以在实践中寻得，缺啥补啥。有明确的任务导向，学习就会有如神助，这也是当前时代的快节奏学习法。&lt;/p&gt;
+&lt;h3 id=&#34;今日分享&#34;&gt;今日分享&lt;/h3&gt;
+&lt;p&gt;前面提到我很喜欢北岛的文风，今日分享他的一首诗：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;无题&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;对于世界&lt;/br&gt;
+我永远是陌生人&lt;/br&gt;
+我不懂它的语言&lt;/br&gt;
+它不懂我的沉默&lt;/br&gt;
+我们交换的&lt;/br&gt;
+只是一点轻蔑&lt;/br&gt;
+如同相逢在镜子中
+&lt;/br&gt;
+&lt;/br&gt;
+对于自己&lt;/br&gt;
+我永远是个陌生人&lt;/br&gt;
+我畏惧黑暗&lt;/br&gt;
+却用身体挡住了&lt;/br&gt;
+那盏唯一的灯&lt;/br&gt;
+我的影子是我的情人&lt;/br&gt;
+心是仇敌&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;喜欢孤独的时候在心里慢慢回味这首诗……&lt;/p&gt;
+&lt;p&gt;END&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>自我主义与集体主义</title>
+        <link>https://promiseland.top/post/220507/</link>
+        <pubDate>Sat, 07 May 2022 01:11:03 +0800</pubDate>
+        
+        <guid>https://promiseland.top/post/220507/</guid>
+        <description>&lt;h3 id=&#34;part-01&#34;&gt;PART 01&lt;/h3&gt;
+&lt;p&gt;这是一期阅读分享，主角是安 · 兰德的《源泉》。&lt;/p&gt;
+&lt;p&gt;了解到《源泉》这本书，源于在即刻上几次看到 &lt;a class=&#34;link&#34; href=&#34;https://jike.city/lightory&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Lightory&lt;/a&gt; 的推荐，春节期间有空就打开看了一下。我读书有个习惯：先看序言，如果序言能引起我的兴趣再开始读正文。很少有一本小说只凭借序言就能让我深陷其中，安 · 兰德的《源泉》就是其中之一。&lt;/p&gt;
+&lt;p&gt;我将部分序言摘录于此：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;人类或其他任何活着的实体，在生命之初不是放弃，不是自我唾弃，也不是对自己的存在进行诅咒。那些都是需要一个腐败和堕落的过程的，这一腐败过程的速度因人而异。有些人刚碰到压力便放弃了；有些人出卖和背叛了自己的意识；有些人不知不觉地慢慢熄火了，却从来不知道自己何时已经失去了这种意识。然后，长者们蜂拥而止，百折不挠地教导他们说，成熟就是摈弃个人见解：放弃了价值观，他们便获得了安全感；失去了自尊，他们便具有了实践的可能。此时，所有这一切意识都消失殆尽了。然而，少数人坚持了下来，继续前进，深知这种热情是不可背叛的；同时，他们学会了如何使这种热情具有一定的目的，他们修整它，使之成形，并最后实现它。但是，无论前途如何，在人生之初，他们便开始寻求生命的无限潜能和人类的高贵身影。&lt;/p&gt;
+&lt;p&gt;并没有多少路标可寻。《源泉》是其中之一。《源泉》之所以具有如此恒久的魅力，其中一个根本的原因就在于——它是对青年志气的认可，同时它歌颂了人类的光荣，显示了人类的可能性有多大。&lt;/p&gt;
+&lt;p&gt;每一代人中，只有少数人能完全理解和完全实现人类的才能，而其余的人都背叛了它。不过这并不重要。正是这极少数人将人类推向前进，而且使生命具有了意义。&lt;/p&gt;
+&lt;p&gt;我所一贯追求的，正是向这些为数不多的人致意。其余的人与我无关；他们要背叛的不是我，也不是《源泉》。他们要背叛的是自己的灵魂。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;从序言可以预见，《源泉》是一部哲学观点鲜明的小说。而作者安·兰德本人不仅是一位作家，还是一位哲学家——客观主义的创始人，她在书中传达出的哲学观点给了我很大的震撼，我一度觉得我是怀着一种忐忑不安又酣畅淋漓的感觉读完此书的。&lt;/p&gt;
+&lt;h3 id=&#34;part-02&#34;&gt;PART 02&lt;/h3&gt;
+&lt;p&gt;《源泉》中最主要的矛盾冲突是自我主义和集体主义的冲突，分别以小说主人公霍华德 · 洛克和媒体工作者埃斯沃斯·拖黑为代表，以斯考德审判和科特兰德审判为冲突的两大高潮。&lt;/p&gt;
+&lt;p&gt;集体主义者指的应该是这样一类人：把与他人的关系放在第一位，通过剽窃伪装自己的价值，同时鼓吹利他主义，要求人为了他人而活，将他人置于自我之上。书中用这样两个词指代集体主义者：「寄生虫」与「二手货」。他们必须寄生在人群之中，靠剽窃他人的创造而生活。&lt;/p&gt;
+&lt;p&gt;而自我主义者，他们是第一个闯入禁区的开拓者，是人类财富的真正创造者。但他们的创造并不是为他人服务的，而是为创造本身。他们的洞察力、力量、勇气来源于个人的精神，他们思考、判断、行动基于自我的意识。他们将自己的真理置于一切之上，与所有集体主义对抗。他们是创造者，他们通过自己的存在成就了人类的荣耀。&lt;/p&gt;
+&lt;p&gt;尽管安 · 兰德称自己并不赞成尼采的哲学观点，但我阅读《源泉》时，总能由主人公霍华德洛克联想到尼采：他们都是自己时代的孤勇者，他们都有着无从寻觅又不可或缺的信念，他们的胜利都不仅仅是个人的一种胜利，而且对于那些应该取胜的，那种推动着全世界前进，却得不到承认的力量来说，也是一种胜利。&lt;/p&gt;
+&lt;p&gt;如果说《源泉》还给了我什么期待的，那就是当我不得不踏上属于自己的地狱之旅时，能够继续追寻生命的无限可能和人类的高贵身影；当我需要面对自己的斯考德审判时，我能从容地说出一句：去特么的。&lt;/p&gt;
+&lt;p&gt;最后推荐阅读小说主人公霍华德 · 洛克在科特兰德审判上的证词，这是全书霍华德唯一一次为自己做辩护，是对集体主义和个人主义很尖锐的阐述：&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://promiseland.top/reference/220507/&#34; &gt;霍华德 · 洛克在科特兰德审判上的证词&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;END&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

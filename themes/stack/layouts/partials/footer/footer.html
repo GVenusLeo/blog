@@ -1,0 +1,17 @@
+{{- $ThemeVersion := "3.11.0" -}}
+<footer class="site-footer">
+    <section class="copyright">
+        &copy; 
+        {{ if and (.Site.Params.footer.since) (ne .Site.Params.footer.since (int (now.Format "2006"))) }}
+            {{ .Site.Params.footer.since }} - 
+        {{ end }}
+        {{ now.Format "2006" }} · <a href="{{ .Site.Params.baseurl }}">{{ .Site.Title }}</a> · <a href="https://jike.city/gvenusleo" target="_blank">GVenusLeo</a>
+    </section>
+    
+    <section class="powerby">
+        {{ with .Site.Params.footer.customText }}
+            {{ . | safeHTML }} <br/>
+        {{ end }}
+    </section>
+    <a href="http://beian.miit.gov.cn/" target="_blank">京ICP备2022010417号</a>
+</footer>
